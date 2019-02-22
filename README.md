@@ -13,4 +13,4 @@ Your finished calculator should look roughly like the image below.  Don't worry 
 
 
 
-<a href="./calc.png"><img src="./calc.png" align="left" height="400" width="250" ></a>
+<a href="./calc.png"><img src="./calc.png" align="center" height="400" width="280" ></a>
