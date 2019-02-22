@@ -22,5 +22,6 @@ Your finished calculator should look roughly like the image below.  Don't worry 
 * [ReactJS GitHub](https://github.com/facebook/react)
 * [Create React App](https://github.com/facebook/create-react-app)
 * [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+* [Understanding Data Flow in React](https://flaviocopes.com/react-unidirectional-data-flow/)
 * [ReactJS StyleGuide (AirBnb)](https://github.com/airbnb/javascript/tree/master/react)
 * [React Style-Guide (Techtonic Specific)](https://techtonicgroup.atlassian.net/wiki/spaces/PD/pages/185892955/Style+Guide?atlOrigin=eyJpIjoiOTI0NjcwZmIwNmZlNDlmMjgxYmRmMDZkOWE2ZmQ5MmIiLCJwIjoiYyJ9) 
