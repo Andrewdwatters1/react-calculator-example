@@ -20,4 +20,9 @@ const buttonProps = [
   { value: '=', type: 'op', styleColor: 'blue-btn btn' }
 ]
 
+export const fontSizes = {
+  large: 'result-font-large',
+  medium: 'result-font-medium',
+  small: 'result-font-small'
+}
 export default buttonProps;
